@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = felixcramer18@gmail.com
+	name = Felix Cramer
